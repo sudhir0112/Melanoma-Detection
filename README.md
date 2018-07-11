@@ -1,7 +1,7 @@
 # Melanoma Detection
 Melanoma, also known as malignant melanoma, is a type of cancer that develops from the pigment-containing cells known as melanocytes. Melanomas typically occur in the skin, but may rarely occur in the mouth, intestines, or eye. In women, they most commonly occur on the legs, while in men they are most common on the back. Sometimes they develop from a mole with concerning changes including an increase in size, irregular edges, change in color, itchiness, or skin breakdown.
 
-![alt text](https://commons.wikimedia.org/wiki/File:Melanoma.jpg#/media/File:Melanoma.jpg)
+![alt text](https://github.com/sudhir0112/Melanoma-Detection/blob/master/input/melanoma.JPG)
 
 Melanoma is the most dangerous type of skin cancer. Globally, in 2012, it newly occurred in 232,000 people. In 2015 there were 3.1 million with active disease which resulted in 59,800 deaths.
 
